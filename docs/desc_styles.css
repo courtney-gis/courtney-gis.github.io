@@ -1,0 +1,137 @@
+a {
+    color: #DEE2E6;
+    text-decoration: underline;
+}
+
+.action {
+    background: transparent;
+    border: 1px solid #DEE2E6;
+    border-radius: 4px;
+    color: #DEE2E6;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin-bottom: 32px;
+    margin-right: 10px;
+    outline: 0;
+    padding: 10px;
+}
+
+body {
+    background-color: #212529;
+    color: #DEE2E6;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#certs-container {
+    margin-left: 300px;
+}
+
+#contact-footer {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+}
+
+.description-container {
+    display: flex;
+    justify-content: center;
+}
+
+.description-title {
+    font-size: 40px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.explaination-container {
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+footer {
+    align-items: center;
+    background-color: black;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+
+form {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+form label {
+    display: block;
+    font-size: 25px;
+}
+
+.full {
+    margin-bottom: 24px;
+}
+
+.half {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.home {
+    height: 100%;
+    max-width: 50px;
+    width: auto;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.indent {
+    font-size: 25px;
+    text-indent: 30px;
+}
+
+.input {
+    background: transparent;
+    border: 1px solid #DEE2E6;
+    border-radius: 4px;
+    color: #DEE2E6;
+    font-size: 20px;
+    height: 35px;
+    outline: 0;
+    padding: 12px;
+    width: 500px;
+}
+
+.item {
+    margin-bottom: 24px;
+    width: 48%;
+}
+
+li {
+    font-size: 25px;
+}
+
+.main-image {
+    height: auto;
+    max-height: 600px;
+    max-width: 1200px;
+    width: 100%;
+}
+
+#message {
+    height: 100px;
+    width: 600px;
+}
+
+.rs {
+    height: auto;
+    width: 100%;
+}
